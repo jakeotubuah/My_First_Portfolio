@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jake Otubuah - Personal Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>JAKE OTUBUAH</h1>
+        <p>Welcome. My name is Jake Otubuah</p>
+    </header>
+    <nav>
+        <ul>
+            <li>
+                <a href="#Introduction">Introduction</a>
+                <a href="#Projects">Projects</a>
+                <a href="#About Me">About Me</a>
+                <a href="#Contact">Contact</a>
+            </li>
+        </ul>
+    </nav>
+    <section>
+        <section id="Introduction">
+            <h2>Introduction</h2>
+            <p>My name is Jake Otubuah and i am 23 years old.</p>
+        </section>
+        <section id="projects">
+            <h2>Projects</h2>
+            <article class="drilling eng">
+                <h3>Drilling Engineering</h3>
+                <p>I am a drilling eng</p>
+                <a href="../Desktop/angela tables.docx"></a>
+            </article>
+        </section>
+        <section id="About Me">
+            <h2>About Me</h2>
+            <p>I like money <br> I am an engineer. <br>I am exhausted</p>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <a href="https://www.linkedin.com/in/jake-nii-laryea-otubuah-144518377/" target="_blank">LINKED IN</a>
+            <a href="github.com/jakeotubuah" target="_blank">GitHub</a>
+        </section>
+    </section>
+    <footer>
+        <p>&copy; 2025 Jake Otubuah </p>
+    </footer>
+</body>
+</html>
